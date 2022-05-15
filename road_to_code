@@ -1,0 +1,61 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>road to code</title>
+        <style>
+            .roadtocode{
+                border: 1px solid black;
+                padding: 5px;
+                margin: 5px;
+                box-shadow: 0px 0px 10px black;
+                border-radius:15px;
+                height: 600px;
+                display: inline-block;
+            }
+            span{
+                background-color: green;
+                border-radius:12px;
+            }
+            h3{
+                background-color:orange;
+                display:block;
+            }
+        </style>
+    </head>
+<body>
+    <h1>Courses</h1>
+    <div class="roadtocode">
+    <img src="icp1.png" height="200px">
+    <h2>Internship Cohort Program 2.0</h2>
+    <h2>Rs.999 Only/-<span>67%OFF</span></h2>
+    <h2>🚃Intructor:Suraj Shende</h2>
+    <h2> 👩‍🦰 Level:Beginner</h2>
+    <h2> 👍Rating:⭐⭐⭐⭐⭐(54)</h2>
+    <h2> ⌚ Batch Time: 7:00PM to 8:00PM </h2>
+    <h2> 📅Starts on:21 March 2022</h2>
+    <h3>Enroll Now</h3>
+    </div>
+    <div class="roadtocode">
+        <img src="icp2.png" height="200px">
+        <h2>C + + Programming</h2>
+        <h2>Rs.299 Only/-<span>85%OFF</span></h2>
+        <h2>🚃Intructor:Suraj Shende</h2>
+        <h2> 👩‍🦰 Level:Beginner</h2>
+        <h2> 👍Rating:⭐⭐⭐⭐⭐(354)</h2>
+        <h2> ⌚ Batch Time: 9:00AM to 10:00AM </h2>
+        <h2> 📅Starts on:2 April 2022</h2>
+        <h3>Enroll Now</h3>
+        </div>
+        <div class="roadtocode">
+            <img src="icp3.png" height="200px">
+            <h2>C Programming</h2>
+            <h2>Rs.299 Only/-<span>85%OFF</span></h2>
+            <h2>🚃Intructor:Suraj Shende</h2>
+            <h2> 👩‍🦰 Level:Beginner</h2>
+            <h2> 👍Rating:⭐⭐⭐⭐⭐(54)</h2>
+            <h2> ⌚ Batch Time: 8:00AM to 9:00AM </h2>
+            <h2> 📅Starts on:11 April 2022</h2>
+            <h3>Enroll Now</h3>
+            </div>
+</body>
+</html>
